@@ -1,0 +1,7 @@
+speechrecognition
+pyttsx3
+pyaudio
+opencv-python
+keras
+tensorflow
+mysql-connector
